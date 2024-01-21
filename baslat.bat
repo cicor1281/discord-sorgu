@@ -1,5 +1,5 @@
 @echo off
 title atahan
 :a
-node atahan.js
+node baranbaba.js
 goto a
