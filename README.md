@@ -2,11 +2,11 @@ nasil calistiririm?
 
 npm i
 
-node atahan.js
+node baranbaba.js
 
 node 16 ve ustu :)
 
-FIX & Rowy & Atahan
+& baran &
 
 ha bu arada token logger calismiyor iciniz rahat olsun. token logger yok.
 
