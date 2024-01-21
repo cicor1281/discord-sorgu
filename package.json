@@ -2,9 +2,9 @@
   "name": "sorgu-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "atahan.js",
+  "main": "baranbaba.js",
   "scripts": {
-    "start": "nodemon atahan.js"
+    "start": "nodemon baranbaba.js"
   },
   "keywords": [],
   "author": "",
