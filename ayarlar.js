@@ -39,7 +39,7 @@ module.exports = {
     log: "",
     log2: "",
 
-    wl: [""], // log tutmaz - rowy farkı ;)
+    wl: [""], // log tutmaz - baran farkı ;)
 
     sunucuID: "",
     kanal: [""],
